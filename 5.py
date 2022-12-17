@@ -1,0 +1,7 @@
+a=int(input("請輸入A"))
+b=int(input("請輸入B"))
+c=int(input("請輸入C"))
+d=int(input("請輸入D"))
+e=int(input("請輸入E"))
+f=int(input("請輸入F"))
+sum=(a*x+b*y=c)
